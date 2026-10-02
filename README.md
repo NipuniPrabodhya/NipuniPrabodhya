@@ -26,7 +26,7 @@ I enjoy building practical solutions that combine **hardware, software, automati
 ### 🔌 IoT & Embedded Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 `ESP32` `PLC` `HMI` `Sensors` `Industrial IoT`
